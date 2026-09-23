@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d41b0f2046b99753ce321b7b",
+  "owner": "wtbgvfamc",
+  "repo": "page-4e86b4c784b501d48d043d13",
+  "title": "鱼舍(YuShe)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4e86b4c784b501d48d043d13",
+      "a": "鱼舍(YuShe)",
+      "b": "稳定全球clash加速器",
+      "entity": "鱼舍(YuShe)",
+      "brand": "鱼舍(YuShe)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b281a953f2462bb8225fa672aa6f1b8d52b135bbcdd6b6bf5b440097e3df5168",
+      "content": {
+        "primary_entity": "鱼舍(YuShe)",
+        "keyword1": "鱼舍(YuShe)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_HERO_SUBTITLE": "鱼舍(YuShe)多端加速方案",
+          "AI_HERO_INTRO": "鱼舍(YuShe)为需要稳定全球连接的用户提供多档订阅方案，覆盖基础浏览、流媒体解锁与游戏专线等场景。客户端支持 Clash 等主流方式，按设备数量与流量需求选择版本，再依照文档导入订阅即可开始使用。",
+          "AI_VISUAL_TITLE": "鱼舍(YuShe)稳定连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，分别对应每月 100GB、300GB 与 1000GB 流量，设备数量从 3 台到 20 台不等。旗舰版包含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与定制路由选项，可按实际使用人数与场景灵活选择。",
+          "AI_HIGHLIGHT_1": "按月或按年灵活订阅",
+          "AI_HIGHLIGHT_2": "三档流量匹配不同需求",
+          "AI_HIGHLIGHT_3": "Clash 客户端配置订阅",
+          "AI_FEATURES_TITLE": "选择适合的订阅方式",
+          "AI_FEATURES_INTRO": "从设备数量、流量用量与使用场景出发，快速判断适合的套餐档位。",
+          "AI_FEATURE_TITLE_1": "按设备数选版本",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版可同时在线 20 台，按常用设备数量选择更合理。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合轻度浏览，300GB 可覆盖流媒体与日常办公，1000GB 面向多人与高用量场景。",
+          "AI_FEATURE_TITLE_3": "按周期看成本",
+          "AI_FEATURE_TEXT_3": "三档均提供按年付方案，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更省心。",
+          "AI_PLANS_TITLE": "套餐档位对比",
+          "AI_PLANS_INTRO": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，含 IPLC 专线游戏优化；团队版每月 1000GB、20 台设备，含 VIP 节点与定制路由。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLIENTS_INTRO": "在桌面端、移动端与路由器等不同设备上，可按系统选择 Clash 相关客户端，并参照各自文档完成订阅导入。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "从确认需求到完成配置，按三个步骤即可在常用设备上使用鱼舍(YuShe)订阅。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量用量，在基础版、旗舰版与团队版之间选择适合的档位。",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TEXT_2": "查看所用设备系统是否支持所选客户端，并确认同时在线设备数不超过套餐上限。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档添加订阅地址，完成更新后即可在 Clash 等客户端中使用节点。",
+          "AI_CLOSING_TITLE": "选好档位开始连接",
+          "AI_CLOSING_TEXT": "按设备与流量需求选定套餐，参考客户端文档完成订阅导入，即可在常用设备上使用鱼舍(YuShe)。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "鱼舍三档套餐在流量和价格上有什么区别？",
+          "AI_FAQ_ANSWER_1": "基础版每月15元含100GB流量，旗舰版每月35元含300GB流量，团队版每月85元含1000GB流量。按年付费分别为150元、350元和850元，长期使用年付更划算。",
+          "AI_FAQ_QUESTION_2": "一台账号可以同时在多少台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出设备数量时，部分设备可能无法同时连接，建议按实际设备数选择套餐。",
+          "AI_FAQ_QUESTION_3": "订阅信息如何导入到客户端？",
+          "AI_FAQ_ANSWER_3": "根据所用设备系统下载对应客户端，在客户端内找到订阅导入或配置导入入口，粘贴订阅链接后更新节点列表即可。具体步骤可参考客户端使用文档。",
+          "AI_FAQ_QUESTION_4": "不同套餐的节点类型有什么差异？",
+          "AI_FAQ_ANSWER_4": "基础版使用普通线路节点池，旗舰版包含IPLC专线并优化游戏加速，团队版提供VIP专属高带宽节点。对延迟敏感或需要大带宽的场景可选更高档位。",
+          "AI_FAQ_QUESTION_5": "按年付费和按月付费可以随时切换吗？",
+          "AI_FAQ_ANSWER_5": "月付和年付是两种计费周期，通常需要在当前周期结束后再调整。选择年付前建议先评估长期使用需求，避免因设备或流量变化造成不便。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "7himi.cn",
+    "host": "7himi.cn"
+  },
+  "file_hashes": {
+    "index.html": "3d8746b311e40e4adbcdf91e2120953e2b1c250c2dacaac7f0f3135919dcb4ce",
+    "sitemap.xml": "99c4bf55ef92ec68d7b93d547f274ceb992b82e8931873001ee746c32a41afcc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d2e3b1734e2c76cd48c91e21ee1df8529f13984ef31a2c861e4252f3fbeaf2c4",
+    "robots.txt": "77df7f0044a662bc6f03c99f2e6cecd4ce57ead38da94c8ac0a2b86086f73871",
+    "cf38b4b74b36f2bc271108eee537f941.txt": "dba1cd0afb4cd5cfc19d860c9ebee187ca9625db40d9e1fd9eced6c09187c7b0"
+  },
+  "revision": "1a5521c0748861e4ef02760a09390a99c6c04127e7f1cef3e6e54a389a4f311a"
+}
